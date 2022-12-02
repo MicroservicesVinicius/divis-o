@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice/micro.iml" filepath="$PROJECT_DIR$/microservice/micro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trabalhoFinalMicroservice.iml" filepath="$PROJECT_DIR$/.idea/trabalhoFinalMicroservice.iml" />
+    </modules>
+  </component>
+</project>
